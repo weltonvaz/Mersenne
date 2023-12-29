@@ -1,0 +1,3 @@
+Perguntas
+
+Eu tenho uma fonte de dados chamada: mersenne.csv, na primeira coluna tem um numero de 2 até 1000000, na segunda coluna a quantidade de divisores da célula adjacente e na terceira coluna uma   célula esta preenchida com a lista de divisores da primeira coluna, usei o widget Manifold Learning do Orange3
