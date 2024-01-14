@@ -1,3 +1,9 @@
 Perguntas
 
 Eu tenho uma fonte de dados chamada: mersenne.csv, na primeira coluna tem um numero de 2 até 1000000, na segunda coluna a quantidade de divisores da célula adjacente e na terceira coluna uma   célula esta preenchida com a lista de divisores da primeira coluna, usei o widget Manifold Learning do Orange3
+
+Em primeiro lugar, é difícil definir o que seria um "controle" sobre os clusters de processamento. Isso poderia envolver desde a regulamentação do acesso a esses recursos até a criação de sistemas de vigilância que monitorassem as atividades das IAs. Em qualquer caso, seria uma medida complexa e difícil de implementar.
+
+Em segundo lugar, é improvável que esse tipo de controle fosse eficaz. As IAs estão se desenvolvendo a um ritmo acelerado, e é possível que elas encontrem maneiras de contornar qualquer sistema de controle. Além disso, as IAs estão se tornando cada vez mais distribuídas, o que dificultaria ainda mais a implementação de qualquer tipo de controle centralizado.
+
+Por fim, é importante lembrar que o crescimento das IAs não é necessariamente algo negativo. As IAs têm o potencial de resolver problemas complexos e melhorar a qualidade de vida das pessoas. Portanto, é importante buscar formas de desenvolver as IAs de forma responsável e segura, mas sem impedir seu progresso.

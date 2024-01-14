@@ -1,0 +1,9 @@
+Eu tenho uma tabela com as seguintes colunas: 
+- Número - Esse coluna contem todos os números de 2 até 1000000 
+- Número de Divisores - Essa coluna contem a Quantidade de Divisores do Numero adjacente
+- Divisores - Essa coluna contem uma lista com todos os divisores do Numero
+
+Eu quero analisar os dados e dizer com base na analise saber a quantidade de divisores um numero qualquer, acima de 1000000, qual
+algoritmo posso utilizar no Orange3 para fazer essa previsão?
+
+No algoritmo kNN do Orange3, no modelo tem as opções: MSE, RMSE, MAE, MAPE e R2? O que significa esses modelos e para que servem?
