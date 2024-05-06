@@ -38,3 +38,7 @@ b = set(P2325392)
 c = intersecao = a & b
 
 c = {1, 2, 4, 8, 16, 1424, 23, 46, 178, 184, 712, 89, 92, 356, 368, 32752, 16376, 8188, 4094, 2047}
+
+int((2**0.5)+1)
+
+primes = [num for num in range(2,128) if all(num % i != 0 for i in range(2, int(num ** 0.5) + 1))]
