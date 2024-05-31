@@ -1,9 +1,7 @@
-n = 467
-numero = ((2**n)-1)
-contador = 0
-
-while numero >= 1:
+from sympy import divisor_count
+numero = 2**23
+contador = 1
+while contador < numero:
+    if divisor_count(contador) == 2:
+        print(contador)
     contador += 1
-    numero = numero // 10
-
-print(contador)

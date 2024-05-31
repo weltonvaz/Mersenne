@@ -9,7 +9,7 @@ a = (divisors(sp))
 
 (31+16)*2
 
-from math import sqrt
+from math import sqrt, lcm, gcd
 # Comprimento da diagonal do lado a (a) (m)
 a = 31
 
